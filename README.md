@@ -1,0 +1,1 @@
+![Stream Process Diagram](http://url/to/img.png)
